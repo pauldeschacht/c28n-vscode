@@ -15,4 +15,4 @@ The extension provides advanced visual features such as
 
 ## Issues Visual Studio Code Extension
 
-You can use this repository to report issues. 
+Please can use this place to report issues. 
